@@ -1,0 +1,26 @@
+<style>
+	h1{color:blue;}
+	//ou pode ser identado desta forma
+
+h1{
+color:blue;
+}
+ <style/>
+Para inserir mais tags de CSS
+<style>
+h1{
+color:blue;
+	font-size:15px;
+}
+a {
+	color:green;
+	font-size:30px;
+}
+img {
+	widht:200px;
+}
+li {
+	font-weight: bold;
+	color:blueviolet;
+}
+ <style/>
